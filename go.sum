@@ -1,0 +1,6 @@
+github.com/fatoni-ach/go-module-sayhello v1.0.0 h1:LiZPeSQXtzyIpRvRAtQWhPgq0UJloSJ9B7Lzryfzhuo=
+github.com/fatoni-ach/go-module-sayhello v1.0.0/go.mod h1:l0VjrjzD7TnnVXgi6LoqoY7NLWRGBT0LONIYkDguN8Y=
+github.com/fatoni-ach/go-module-sayhello v1.1.0 h1:g6YEY8TVIe18ZVHzz0tupaTX31N4H0NZ3pJK4T4iaVM=
+github.com/fatoni-ach/go-module-sayhello v1.1.0/go.mod h1:l0VjrjzD7TnnVXgi6LoqoY7NLWRGBT0LONIYkDguN8Y=
+github.com/fatoni-ach/go-module-sayhello/v2 v2.0.0 h1:QTGyRRxkrNsOKC15FPbNxZt0YNHpjB8C4+qt1p0ALec=
+github.com/fatoni-ach/go-module-sayhello/v2 v2.0.0/go.mod h1:w1r0P68A15/gJ/TqH0WlJADvx3st6o7i/Mrfbq9LB5Q=
